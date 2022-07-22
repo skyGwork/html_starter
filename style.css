@@ -1,4 +1,15 @@
+/* element selector */
 body {
   background-color: #5b5959;
   color: #fff;
+}
+/* class selector */
+.container {
+  background-color: #fff;
+  color: #302e2e;
+  padding: 20px;
+}
+/* id selector */
+#imgContainer {
+  margin: 20px;
 }
